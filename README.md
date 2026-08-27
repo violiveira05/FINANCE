@@ -280,3 +280,16 @@ Este projeto está sendo desenvolvido como parte de um trabalho acadêmico, com 
 🚧 **Em desenvolvimento**
 
 Novas funcionalidades e melhorias serão adicionadas durante as etapas de desenvolvimento do projeto.
+
+## 🔗 Documentação e Protótipos
+
+### 📌 Miro
+
+(https://miro.com/welcomeonboard/a0ZmWWl4Vnh5VXdnRzdCZGE4ZFR6VW5YUXJUc09GMzhIekNIMXZIV0xtZ1pPV0Y3bm5EcVpNT0kyNS9IVWRZMU9ZUGtYVEsrQ3Ftazh0U1VOdSt2ZHF5SlBPbHRuZVhITzZzNkFVei9IWGNCMHdBbXZJYTI5YS9NUkpxa0E4MzFzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=665379564321)
+
+### 🎨 Trello
+
+https://trello.com/invite/b/6a9086903b5ed2758e7dd3c7/ATTI7490dcf74956897d56e9d8db5615273c441ECEC7/financecp456
+
+---
+
