@@ -291,5 +291,10 @@ Novas funcionalidades e melhorias serão adicionadas durante as etapas de desenv
 
 https://trello.com/invite/b/6a9086903b5ed2758e7dd3c7/ATTI7490dcf74956897d56e9d8db5615273c441ECEC7/financecp456
 
+### 🎨 Figma 
+
+https://www.figma.com/make/oojsaNIjxd3kS7AqxcWlAM/Tela-de-login?t=zv23XFMV0XnhToWD-1
+
+
 ---
 
