@@ -146,6 +146,19 @@ Transação aparece no histórico
         ↓
 Tela de análise é atualizada
 ````
+### Instruções de uso
+
+1. Acesse o link do protótipo.
+2. Inicie pela tela de Login.
+3. Realize o fluxo de autenticação.
+4. Navegue pelo Dashboard.
+5. Utilize o botão central "+" para acessar as operações financeiras.
+6. Registre receitas e despesas simuladas.
+7. Consulte o histórico de transações.
+8. Acesse a área de Análise para visualizar os indicadores e gráficos financeiros.
+
+
+
 
 ###🔗 Documentação e Protótipos
 
