@@ -163,8 +163,7 @@ Tela de análise é atualizada
 ###🔗 Documentação e Protótipos
 
 ### 📌 Miro
-
-(https://miro.com/welcomeonboard/a0ZmWWl4Vnh5VXdnRzdCZGE4ZFR6VW5YUXJUc09GMzhIekNIMXZIV0xtZ1pPV0Y3bm5EcVpNT0kyNS9IVWRZMU9ZUGtYVEsrQ3Ftazh0U1VOdSt2ZHF5SlBPbHRuZVhITzZzNkFVei9IWGNCMHdBbXZJYTI5YS9NUkpxa0E4MzFzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=665379564321)
+https://miro.com/app/board/uXjVHt3fXlU=/?share_link_id=271837059922
 
 ### 🎨 Trello
 
