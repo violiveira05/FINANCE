@@ -145,8 +145,7 @@ Dashboard é atualizado
 Transação aparece no histórico
         ↓
 Tela de análise é atualizada
-
-----
+````
 
 ###🔗 Documentação e Protótipos
 
