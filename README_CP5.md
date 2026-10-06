@@ -9,7 +9,7 @@ Projeto desenvolvido para o **Checkpoint 5**, com foco na criação de um **prot
 ## 👥 Integrantes
 
 - Victor Augusto — RM 558338
-- Milena Queiroz — RM 55825
+- Milena Queiroz — RM 558825
 - Pedro Henrique — RM 558867
 - Gabriel Yeshua — RM 558273
 - Nicolas Alvares — RM 557271
